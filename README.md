@@ -45,7 +45,7 @@ Authors: David Soriano-Paños, Juddy Heliana Arias-Castro, Adriana Reyna-Lara, H
 
 Published: Physical Review Research, 2020
 
-DOI/Link: [DOI or URL]
+DOI/Link: <https://doi.org/10.1103/PhysRevResearch.2.013312>
 
 Review: Link to review file
 
