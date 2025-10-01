@@ -7,8 +7,11 @@ This repository contains critical reviews of scientific papers focusing on the m
 This collection provides in-depth mathematical and statistical critiques of key papers in vector-borne disease modeling. Each review emphasizes:
 
 Mathematical model formulation and assumptions
+
 Statistical methodology and parameter estimation
+
 Mathematical consistency and rigor
+
 Identification of inconsistencies or methodological issues
 
 
@@ -22,8 +25,6 @@ Published: Journal of Theoretical Biology, 2009
 
 DOI/Link: <https://doi.org/10.1016/j.jtbi.2009.02.016>
 
-Review: Link to review file
-
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
 **2. ssessing the Interplay Between Human Mobility and Mosquito Borne Diseases in Urban Environments**
@@ -33,8 +34,6 @@ Authors: E. Massaro, D. Kondor, and C. Ratti
 Published: Scientific Reports, Volume 9, Article 16911, in 2019
 
 DOI/Link: <https://doi.org/10.1038/s41598-019-53127-z>
-
-Review: Link to review file
 
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
@@ -46,8 +45,6 @@ Authors: David Soriano-Paños, Juddy Heliana Arias-Castro, Adriana Reyna-Lara, H
 Published: Physical Review Research, 2020
 
 DOI/Link: <https://doi.org/10.1103/PhysRevResearch.2.013312>
-
-Review: Link to review file
 
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
