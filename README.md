@@ -1,8 +1,9 @@
 **Master's Thesis Literature Review: Mathematical Models for Vector-Borne Diseases**
-\\
+
 This repository contains critical reviews of scientific papers focusing on the mathematical and statistical aspects of vector-borne disease modeling for my master's thesis literature review.
 
-About
+**About**
+
 This collection provides in-depth mathematical and statistical critiques of key papers in vector-borne disease modeling. Each review emphasizes:
 
 Mathematical model formulation and assumptions
@@ -10,7 +11,7 @@ Statistical methodology and parameter estimation
 Mathematical consistency and rigor
 Identification of inconsistencies or methodological issues
 
-Repository Structure
+**Repository Structure**
 
 ├── README.md
 ├── reviews/
@@ -19,7 +20,7 @@ Repository Structure
 │   └── paper_03_review.md
 └── references.md
 
-Paper Reviews
+**Paper Reviews**
 1. [Paper Title 1]
 
 Authors: [Author names]
