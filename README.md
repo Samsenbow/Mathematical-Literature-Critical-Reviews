@@ -11,14 +11,6 @@ Statistical methodology and parameter estimation
 Mathematical consistency and rigor
 Identification of inconsistencies or methodological issues
 
-**Repository Structure**
-
-├── README.md
-├── reviews/
-│   ├── paper_01_review.md
-│   ├── paper_02_review.md
-│   └── paper_03_review.md
-└── references.md
 
 **Paper Reviews**
 
