@@ -53,15 +53,13 @@ Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
 Each review critically examines:
 
-Model Formulation: Correctness of differential equations, difference equations, or other mathematical structures
+Model Formulation: Correctness of model equations, assumptions, and other mathematical structures
 
-(Parameter Estimation: Statistical methods used and their appropriateness)
+Parameter Estimation: Statistical methods used and their appropriateness
+
 Mathematical Assumptions: Validity and biological plausibility
 
 Analytical Solutions: Correctness of derivations (equilibria, stability analysis, reproduction numbers)
-
-(Numerical Methods: Implementation and validation)
-(Statistical Analysis: Data fitting, uncertainty quantification, sensitivity analysis)
 
 Identified Inconsistencies: Mathematical errors, statistical issues, or logical gaps
 
