@@ -37,20 +37,26 @@ Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 **2. ssessing the Interplay Between Human Mobility and Mosquito Borne Diseases in Urban Environments**
 
 Authors: E. Massaro, D. Kondor, and C. Ratti
+
 Published: Scientific Reports, 2019
+
 DOI/Link: [DOI or URL]
-(Model Type: [e.g., Agent-based, Compartmental, etc.])
+
 Review: Link to review file
+
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
 
 **3. Vector-borne epidemics driven by human mobility**
 
 Authors: David Soriano-Paños, Juddy Heliana Arias-Castro, Adriana Reyna-Lara, Hector J. Martínez, Sandro Meloni, Jesús Gómez-Gardeñes
+
 Published: Physical Review Research, 2020
+
 DOI/Link: [DOI or URL]
-(Model Type: [e.g., SIR, SEIR, Ross-Macdonald, etc.])
+
 Review: Link to review file
+
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
 
@@ -59,11 +65,16 @@ Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 Each review critically examines:
 
 Model Formulation: Correctness of differential equations, difference equations, or other mathematical structures
+
 (Parameter Estimation: Statistical methods used and their appropriateness)
 Mathematical Assumptions: Validity and biological plausibility
+
 Analytical Solutions: Correctness of derivations (equilibria, stability analysis, reproduction numbers)
+
 (Numerical Methods: Implementation and validation)
 (Statistical Analysis: Data fitting, uncertainty quantification, sensitivity analysis)
+
 Identified Inconsistencies: Mathematical errors, statistical issues, or logical gaps
+
 
 
