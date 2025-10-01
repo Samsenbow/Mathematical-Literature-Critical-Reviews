@@ -25,10 +25,13 @@ Identification of inconsistencies or methodological issues
 **1. The Effects of Human Movement on the Persistence of Vector-Borne Diseases.**
 
 Authors: C. Cosner, J.C. Beier , R.S. Cantrell, D. Impoinvil, L. Kapitanski, M.D. Potts, A. Troyo, S. Ruan
+
 Published: Journal of Theoretical Biology, 2009
+
 DOI/Link: [DOI or URL]
-(Model Type: [e.g., Agent-based, Compartmental, etc.])
+
 Review: Link to review file
+
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
 **2. ssessing the Interplay Between Human Mobility and Mosquito Borne Diseases in Urban Environments**
