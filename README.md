@@ -4,13 +4,15 @@ This repository contains critical reviews of scientific papers focusing on the m
 
 **About**
 
-This collection provides in-depth mathematical and statistical critiques of key papers in vector-borne disease modeling. Each review emphasizes:
+This collection provides in-depth critiques of key papers in vector-borne disease modeling, focusing on frameworks that explore human mobility, transmission dynamics, and disease control strategies. Each review includes:
 
-Mathematical model formulation and assumptions
+Critical analysis of the mathematical models and assumptions,
 
-Statistical methodology and parameter estimation
+Interpretation of results and implications for disease control,
 
-Mathematical consistency and rigor
+Figures, flowcharts, and equations to illustrate key concepts,
+
+References and links to the original publications.
 
 Identification of inconsistencies or methodological issues
 
@@ -27,7 +29,7 @@ DOI/Link: <https://doi.org/10.1016/j.jtbi.2009.02.016>
 
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
-**2. ssessing the Interplay Between Human Mobility and Mosquito Borne Diseases in Urban Environments**
+**2. Assessing the Interplay Between Human Mobility and Mosquito Borne Diseases in Urban Environments**
 
 Authors: E. Massaro, D. Kondor, and C. Ratti
 
@@ -49,19 +51,6 @@ DOI/Link: <https://doi.org/10.1103/PhysRevResearch.2.013312>
 Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
 
-**Review Focus**
-
-Each review critically examines:
-
-Model Formulation: Correctness of model equations, assumptions, and other mathematical structures
-
-Parameter Estimation: Statistical methods used and their appropriateness
-
-Mathematical Assumptions: Validity and biological plausibility
-
-Analytical Solutions: Correctness of derivations (equilibria, stability analysis, reproduction numbers)
-
-Identified Inconsistencies: Mathematical errors, statistical issues, or logical gaps
 
 
 
