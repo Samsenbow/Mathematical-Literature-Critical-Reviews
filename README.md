@@ -20,7 +20,7 @@ Authors: C. Cosner, J.C. Beier , R.S. Cantrell, D. Impoinvil, L. Kapitanski, M.D
 
 Published: Journal of Theoretical Biology, 2009
 
-DOI/Link: [DOI or URL]
+DOI/Link: <https://doi.org/10.1016/j.jtbi.2009.02.016>
 
 Review: Link to review file
 
@@ -30,9 +30,9 @@ Key Issues Identified: [Brief note on main mathematical/statistical concerns]
 
 Authors: E. Massaro, D. Kondor, and C. Ratti
 
-Published: Scientific Reports, 2019
+Published: Scientific Reports, Volume 9, Article 16911, in 2019
 
-DOI/Link: [DOI or URL]
+DOI/Link: <https://doi.org/10.1038/s41598-019-53127-z>
 
 Review: Link to review file
 
