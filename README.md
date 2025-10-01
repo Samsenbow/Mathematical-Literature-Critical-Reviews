@@ -1,4 +1,5 @@
-Master's Thesis Literature Review: Mathematical Models for Vector-Borne Diseases
+**Master's Thesis Literature Review: Mathematical Models for Vector-Borne Diseases**
+\\
 This repository contains critical reviews of scientific papers focusing on the mathematical and statistical aspects of vector-borne disease modeling for my master's thesis literature review.
 
 About
