@@ -71,7 +71,11 @@ Published: Physical Review Research, 2020
 
 DOI/Link: <https://doi.org/10.1103/PhysRevResearch.2.013312>
 
-Key Issues Identified: [Brief note on main mathematical/statistical concerns]
+Key Issues Identified :
+
+The model is formulated in a deterministic setting. While developing it, the probability that an individual in the i‑th population at time t becomes infected was incorrectly derived. However, the simulations still reflect realistic outcomes because the parameter values used effectively approximate the infinite population assumption inherent in the deterministic framework.
+
+
 
 
 
