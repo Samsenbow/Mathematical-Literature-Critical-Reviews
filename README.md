@@ -44,7 +44,23 @@ Published: Scientific Reports, Volume 9, Article 16911, in 2019
 
 DOI/Link: <https://doi.org/10.1038/s41598-019-53127-z>
 
-Key Issues Identified: [Brief note on main mathematical/statistical concerns]
+Key Issues Identified:
+
+Mathematical inconsistencies: The model neglects the recovered population in the differential equations, contradicting the claimed use of the Ross–Macdonald framework.
+
+Vector population assumptions: The effective mosquito population in each patch is erroneously neglected, despite claims that mosquitoes can move between meta-population patches.
+
+Misuse of fundamental concepts:
+
+The paper treats rate and probability interchangeably, despite their distinct mathematical meanings.
+
+Probabilities are incorrectly assumed to have linear behavior over time.
+
+The binomial distribution is erroneously applied to model transitions between SEIR compartments.
+
+The carrying capacity in the logistic model is introduced with an incorrect interpretation.
+
+Temperature-dependent variables are used without specifying how temperature is incorporated into the model.
 
 
 **3. Vector-borne epidemics driven by human mobility**
