@@ -27,7 +27,14 @@ Published: Journal of Theoretical Biology, 2009
 
 DOI/Link: <https://doi.org/10.1016/j.jtbi.2009.02.016>
 
-Key Issues Identified: [Brief note on main mathematical/statistical concerns]
+Key Issues Identified: 
+
+Mathematical inconsistencies: The model neglects the possible recovered population in the differential equations, which contradicts the study’s claim of following the Ross–Macdonald framework.
+
+Vector population assumptions: The effective mosquito population in each patch is erroneously neglected, despite claims that mosquitoes can move between meta-population patches.
+
+Terminology issues: The paper uses mathematically incorrect or misleading terms, such as “discrete diffusion,” which does not exist in standard mathematical literature and may confuse readers about the model’s assumptions.
+
 
 **2. Assessing the Interplay Between Human Mobility and Mosquito Borne Diseases in Urban Environments**
 
