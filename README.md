@@ -1,33 +1,33 @@
-**Master's Thesis Literature Review**
+# Master's Thesis Literature Review
 
 This repository contains critical reviews of scientific papers focusing on the mathematical and statistical aspects of vector-borne disease modeling for my master's thesis literature review.
 
-**About**
+## About
 
 This collection provides in-depth critiques of key papers in vector-borne disease modeling, focusing on frameworks that explore human mobility, transmission dynamics, and disease control strategies. Each review includes:
 
-Critical analysis of the mathematical models and assumptions,
+- Critical analysis of the mathematical models and assumptions,
 
-Interpretation of results and implications for disease control,
+- Interpretation of results and implications for disease control,
 
-Figures, flowcharts, and equations to illustrate key concepts,
+- Figures, flowcharts, and equations to illustrate key concepts,
 
-References and links to the original publications.
+- References and links to the original publications.
 
-Identification of inconsistencies or methodological issues
+- Identification of inconsistencies or methodological issues
 
 
-**Paper Reviews**
+## Paper Reviews
 
-**1. The Effects of Human Movement on the Persistence of Vector-Borne Diseases.**
+## 1. The Effects of Human Movement on the Persistence of Vector-Borne Diseases.
 
-Authors: C. Cosner, J.C. Beier , R.S. Cantrell, D. Impoinvil, L. Kapitanski, M.D. Potts, A. Troyo, S. Ruan
+- **Authors:** C. Cosner, J.C. Beier , R.S. Cantrell, D. Impoinvil, L. Kapitanski, M.D. Potts, A. Troyo, S. Ruan
 
-Published: Journal of Theoretical Biology, 2009
+- **Published:** Journal of Theoretical Biology, 2009
 
-DOI/Link: <https://doi.org/10.1016/j.jtbi.2009.02.016>
+- **DOI/Link:** <https://doi.org/10.1016/j.jtbi.2009.02.016>
 
-Key Issues Identified: 
+- **Key Issues Identified:** 
 
 Mathematical inconsistencies: The model neglects the possible recovered population in the differential equations, which contradicts the study’s claim of following the Ross–Macdonald framework.
 
